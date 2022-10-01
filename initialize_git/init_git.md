@@ -8,12 +8,12 @@ $ python3 /path/to/init_git.py [remote_repo_name] $(pwd)
 
 **Fish**
 
-```fish
+```bash
 $ python3 /path/to/init_git.py [remote_repo_name] (pwd)
 ```
 
 **Zsh**
 
-```zsh
+```bash
 $ python3 /path/to/init_git.py [remote_repo_name] $PWD
 ```
