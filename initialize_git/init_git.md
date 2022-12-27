@@ -3,17 +3,17 @@
 **Bash**
 
 ```bash
-$ python3 /path/to/init_git.py [remote_repo_name] $(pwd)
+$ python3 /path/to/init_git.py $(pwd)
 ```
 
 **Fish**
 
 ```bash
-$ python3 /path/to/init_git.py [remote_repo_name] (pwd)
+$ python3 /path/to/init_git.py (pwd)
 ```
 
 **Zsh**
 
 ```bash
-$ python3 /path/to/init_git.py [remote_repo_name] $PWD
+$ python3 /path/to/init_git.py $PWD
 ```
